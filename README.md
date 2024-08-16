@@ -11,8 +11,6 @@
 
 ## Introduction
 
-This is a hybrid Next.js + Python app that uses Next.js as the frontend and FastAPI as the API backend. One great use case of this is to write Next.js apps that use Python AI libraries on the backend.
-
 ## How It Works
 
 The Python/FastAPI server is mapped into to Next.js app under `/api/`.
