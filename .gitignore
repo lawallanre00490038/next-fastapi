@@ -15,6 +15,8 @@
 # production
 /build
 
+/backEnv
+
 # misc
 .DS_Store
 *.pem
